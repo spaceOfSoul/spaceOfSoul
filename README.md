@@ -4,4 +4,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=spaceOfSoul&layout=compact)](https://github.com/spaceOfSoul/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=spaceOfSoul&theme=onedark)](https://github.com/spaceOfSoul/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=spaceOfSoul&theme=onewhite)](https://github.com/spaceOfSoul/github-profile-trophy)
