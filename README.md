@@ -45,11 +45,6 @@
   [![Pandas](https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
   [![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
   [![REST API](https://img.shields.io/badge/rest%20api-02569B.svg?style=for-the-badge&logo=api&logoColor=white)](https://restfulapi.net/)
-  
----
-
-![Changhyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=spaceOfSoul&show_icons=true&count_private=true)
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ychh11232)
 
 ---
 
