@@ -47,6 +47,10 @@
 
 ---
 
+### 🛠️ Certicifate
+- [반도체 Fundamental Engineer](https://bportal.nais.or.kr/badge/badgedetail.do?certId=MMUWOtJLgJ+BOSkodri6Gw==)
+- [인공지능학습데이터전문가2급](https://badge.omnione.net/host/share/ZjExMjIxMGEtMDcyZi00ZTQxLWJkNzMtYTFjMWVkMzkxNGU1)
+
 # 주요 활동
 
 ## 참여한 대회 및 공모전
