@@ -48,6 +48,7 @@
 ---
 
 ### 🛠️ Certicifate
+- [AICE Associate](https://github.com/spaceOfSoul/spaceOfSoul/blob/main/AICE_%EC%9E%90%EA%B2%A9%EC%A6%9D.pdf)
 - [반도체 Fundamental Engineer](https://bportal.nais.or.kr/badge/badgedetail.do?certId=MMUWOtJLgJ+BOSkodri6Gw==)
 - [인공지능학습데이터전문가2급](https://badge.omnione.net/host/share/ZjExMjIxMGEtMDcyZi00ZTQxLWJkNzMtYTFjMWVkMzkxNGU1)
 
