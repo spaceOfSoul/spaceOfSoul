@@ -52,6 +52,19 @@
 - [반도체 Fundamental Engineer](https://bportal.nais.or.kr/badge/badgedetail.do?certId=MMUWOtJLgJ+BOSkodri6Gw==)
 - [인공지능학습데이터전문가2급](https://badge.omnione.net/host/share/ZjExMjIxMGEtMDcyZi00ZTQxLWJkNzMtYTFjMWVkMzkxNGU1)
 
+---
+
+### 🏫 학력
+- 북평고등학교 2016.03 ~ 2019.02
+- 강릉원주대학교 전자공학과 2019.03 ~ 2025.08
+
+---
+
+### 💼 경력
+- (주)디지트론 2025.02 ~ 
+
+---
+
 # 주요 활동
 
 ## 참여한 대회 및 공모전
