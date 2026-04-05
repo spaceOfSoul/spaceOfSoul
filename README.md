@@ -112,7 +112,7 @@
 | [2-stage RNN 태양광 발전양 예측 연구](https://github.com/spaceOfSoul/photovoltaic_v2)               | 2023/11/21 ~ 2024/01/01            | 기상데이터 문제점을 개선하기 위한 2-stage RNN 모델 개발 및 성능 비교 분석.                         |               |
 | OptiSolar               | 2024/04/01 ~ 2024/06/10            | 태양광 발전량 예측 어플리케이션 개발                         |               |
 | [Coin rapid run](https://github.com/eeArcadePlatformer/jumpGame)                      | 2023/07/03 ~ 2024/03/03     | 대동제 전자오락실 부스를 위한 게임 개발. 팀장으로 코드 저장소 관리 및 작업 명세서 작성.            |                             |
-| [태양광 발전량 예측 연구 TestBed](https://github.com/spaceOfSoul/photovoltaic)               | 2023/03/30 ~ 2023/07/11            | 공공 기상데이터를 활용한 태양광 발전량 예측 연구를 위한 테스트배드 작성.                         |               |
+| [태양광 발전량 예측 연구 TestBed](https://github.com/spaceOfSoul/photovoltaic)               | 2023/03/30 ~ 2023/07/11            | 공공 기상데이터를 활용한 태양광 발전량 예측 연구를 위한 테스트배드 작성.                         | [해당 테스트베드 기반 연구 SCIE 저널 게재 (Measurement, Elsevier, 2저자)](https://www.sciencedirect.com/science/article/pii/S0263224126002290?via%3Dihub) |
 
 ## 참여 프로그램
 | **프로그램명**                                               | **일자**                          | **주최**                            | **내용**                                                                                              | **특이사항**                |
